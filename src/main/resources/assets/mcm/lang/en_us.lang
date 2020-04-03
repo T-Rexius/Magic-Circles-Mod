@@ -1,0 +1,28 @@
+// Items
+item.nether_crystal.name=Nether Crystal
+item.magica_ash.name=Magica Ash
+
+
+// Food
+item.evil_apple.name=Evil Apple
+
+
+// Blocks
+tile.nether_crystal_block.name=Nether Crystal Block
+tile.nether_crystal_ore.name=Nether Crystal Ore
+tile.magica_ore.name=Magica Ore
+
+
+// Tools
+item.nether_crystal_sword.name=Nether Crystal Sword
+item.nether_crystal_shovel.name=Nether Crystal Shovel
+item.nether_crystal_pickaxe.name=Nether Crystal Pickaxe
+item.nether_crystal_axe.name=Nether Crystal Axe
+item.nether_crystal_hoe.name=Nether Crystal Hoe
+
+
+// Armor
+item.nether_crystal_helmet.name=Nether Crystal Helmet
+item.nether_crystal_chestplate.name=Nether Crystal Chestplate
+item.nether_crystal_leggings.name=Nether Crystal Leggings
+item.nether_crystal_boots.name=Nether Crystal Boots

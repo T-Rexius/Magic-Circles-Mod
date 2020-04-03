@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "NNN",
+        "NAN",
+        "NAN"
+    ],
+    
+    "key":
+    {
+        "N":
+        {
+            "item": "mcm:nether_crystal"
+        },
+        
+        "A":
+        {
+            "item": "mcm:magica_ash"
+        }
+        
+    },
+    
+    "result":
+    {
+        "item": "mcm:nether_crystal_leggings",
+        "count": 1
+    }
+}

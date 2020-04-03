@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    
+    "ingredients":
+    [
+    
+    {
+        "item": "mcm:nether_crystal"
+    },
+    
+    {
+        "item": "minecraft:diamond"
+    }
+    
+    ],
+    
+    "result":
+    {
+        "item": "mcm:nether_crystal",
+        "count": 2
+    }
+}

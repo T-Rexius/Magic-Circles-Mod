@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "A A",
+        "N N",
+        "N N"
+    ],
+    
+    "key":
+    {
+        "N":
+        {
+            "item": "mcm:nether_crystal"
+        },
+        
+        "A":
+        {
+            "item": "mcm:magical_ash"
+        }
+        
+    },
+    
+    "result":
+    {
+        "item": "mcm:nether_crysta_boots",
+        "count": 1
+    }
+}
