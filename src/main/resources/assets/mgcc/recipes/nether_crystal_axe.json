@@ -1,0 +1,35 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " NN",
+        " SN",
+        "ASA"
+    ],
+    
+    "key":
+    {
+        "N":
+        {
+            "item": "mgcc:magica_crystal"
+        },
+        
+        "S":
+        {
+            "item": "minecraft:stick"
+        },
+        
+        "A":
+        {
+            "item": "mgcc:magica_ash"
+        }
+        
+    },
+    
+    "result":
+    {
+        "item": "mgcc:magica_crystal_axe",
+        "count": 1
+    }
+}

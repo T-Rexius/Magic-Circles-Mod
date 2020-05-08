@@ -1,6 +1,0 @@
-{
-    "parent": "item/handheld",
-    "textures": {
-        "layer0": "mcm:items/nether_crystal_shovel"
-    }
-}

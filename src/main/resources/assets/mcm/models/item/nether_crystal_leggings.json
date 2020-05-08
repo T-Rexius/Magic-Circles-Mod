@@ -1,6 +1,0 @@
-{
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "mcm:items/nether_crystal_leggings"
-    }
-}
